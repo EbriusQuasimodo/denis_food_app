@@ -55,7 +55,7 @@ class DiscountWidget extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'Get discount of',
+                            'Get discount offffff',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 20,
